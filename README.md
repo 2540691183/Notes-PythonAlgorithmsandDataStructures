@@ -1,6 +1,9 @@
 # Notes-PythonAlgorithmsandDataStructures
 
-《Python 数据结构与算法分析》笔记
+《Python 数据结构与算法分析》（第二版）学习笔记。
+>原书作者：**【美】布拉德.米勒 戴维.拉努姆**  
+中文翻译：**吕能 刁寿钧**  
+这是一本用 Python 描述数据结构与算法的开山之作！颇有口碑。
 
 ## 目录
 
